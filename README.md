@@ -8,7 +8,7 @@
 </p>
 <p align="center">
         <a href="https://discord.gg/nullify">
-	       <img src="https://img.shields.io/discord/10755500212918723076?label=discord&logo=discord">
+	       <img src="https://img.shields.io/discord/1075550021291872307?label=discord&logo=discord">
         </a>
 </p>
 
