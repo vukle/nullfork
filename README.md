@@ -48,6 +48,7 @@ javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/Data/mai
   	<li>https://photomath.com/ (Math related)</li>
   </ul>
   <details>
+	  
   <summary><b>Can you make other hacks for another programs?</b></summary>
 
 We could but really our main focus is i-Ready exploits. There is plenty of exploits on GitHub, just check before asking. You can ask & we will keep it as an suggestion.
