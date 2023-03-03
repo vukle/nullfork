@@ -17,7 +17,7 @@ Do Ctrl + Shift + J to open the console and paste the code, then hit Enter to ru
 If your school blocks the console then make a new bookmark and in the URL section paste the code there. Click the bookmark anytime to run the code.</p>
 
 ```js
-javascript:fetch('https://raw.githubusercontent.com/proxyplu/Nullify/main/Data/main.js').then(r => r.text()).then(r => eval(r))
+javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/Data/main.js').then(r => r.text()).then(r => eval(r))
 ```
 
 <h2 align="center">Misc</h2>
