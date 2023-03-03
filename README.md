@@ -49,6 +49,17 @@ javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/Data/mai
   </ul>
   </details>
   
+   <details>
+  <summary><b>How do I send feedback about Nullify?</b></summary>
+
+  You can make an issue on the Github repository or leave a comment on our Discord server (listed at the top of this page). But please, be sure to check the rest of the FAQ before bringing up an issue.
+  </details>
+
+  <summary><b>Can you make other hacks for another programs?</b></summary>
+
+We could but really our main focus is i-Ready exploits. There is plenty of exploits on GitHub, just check before asking. You can ask & we will keep it as an suggestion.
+</details>
+  
 <h2 align="center">Misc</h2>
 
 <p align="center">
