@@ -23,7 +23,7 @@ javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/Data/mai
 <h2 align="center">Misc</h2>
 
 <p align="center">
-Credits to ArjhanToteck, cupiditys, and wang for originally making this, (but some deleted their repo).<br><br>
+Credits to MidgetFudger69, cupiditys, and wang for originally making this, (but some deleted their repo).<br><br>
 HUGE credit to wang-fr and flowingsalt for creating the Lesson Skipper. This hack wouldn't be as great as it is without their help.<br><br>
 Press H while the Nullify menu is open to hide it. Press H again to have it reappear.<br><br>
 Nullify is under the GNU General Public License v3.0. Learn more <a href="https://github.com/notplu/Nullify/blob/main/LICENSE">here</a>.</p>
