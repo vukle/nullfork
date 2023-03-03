@@ -24,7 +24,7 @@ If your school blocks the console then make a new bookmark and in the URL sectio
 ```js
 javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/Data/main.js').then(r => r.text()).then(r => eval(r))
 ```
-  ## FAQ
+<h2 align="center">FAQ</h2>
   <details>
   	<summary><b>How do I send feedback about Nullify?</b></summary>
 
