@@ -13,7 +13,7 @@ With this hack you can completely remove the stress and torture that comes with 
 
 <h2 align="center">How to setup:</h2>
 <p align="center">Copy the code below and login to i-Ready.<br><br>
-Do Ctrl + Shift + J to open the console and paste the code or can use a bookmarklet,if continue to use console, hit Enter to run it.<br><br>
+Do Ctrl + Shift + J to open the console and paste the code or can use a bookmarklet, if continue to use console, hit Enter to run it.<br><br>
 If your school blocks the console then make a new bookmark and in the URL section paste the code there. Click the bookmark anytime to run the code.</p>
 
 ```js
