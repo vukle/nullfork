@@ -24,7 +24,36 @@ If your school blocks the console then make a new bookmark and in the URL sectio
 ```js
 javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/Data/main.js').then(r => r.text()).then(r => eval(r))
 ```
+## FAQ
+  <details>
+  	<summary><b>How do I send feedback about Nullify?</b></summary>
 
+  You can make an issue on the Github repository or leave a comment on our Discord server (listed at the top of this page). But please, do be sure to check the rest of the FAQ before bringing up an issue.
+  </details>
+
+  <details>
+  	<summary><b>The script isn't working, what do I do?</b></summary>
+
+  It may be that you have an old version (which is very common), or that you simply followed the wrong steps (i.e not putting a colon after javascript in the bookmarklet or just copied the code wrong. Make sure to check your code!). Always check either of these two options before complaining. Worst case scenario, it might be that the script itself has been patched, but it's not likely to happen for a while, If so we will try to fix it as fast as possible so please be patient if so.
+  </details>
+
+  <details>
+  	<summary><b>Is there something like this for other school related programs?</b></summary>
+
+  You can join the discord and ask for something to be made but your best bet would most likely be to use some of the following:
+  <ul>
+  	<li>https://discord.gg/qu9KB4BCZz (Savvas Realize)</li>
+  	<li>https://discord.gg/4STDwzYUXb (Deltamath)</li>
+  	<li>https://discord.gg/4STDwzYUXb (Ed-Learning)</li>
+  	<li>https://photomath.com/ (Math related)</li>
+  </ul>
+  <details>
+  <summary><b>Can you make other hacks for another programs?</b></summary>
+
+We could but really our main focus is i-Ready exploits. There is plenty of exploits on GitHub, just check before asking, we will keep it as an suggestion.
+</details>
+  </details>
+  
 <h2 align="center">Misc</h2>
 
 <p align="center">
