@@ -47,6 +47,8 @@ javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/Data/mai
   	<li>https://discord.gg/4STDwzYUXb (Ed-Learning)</li>
   	<li>https://photomath.com/ (Math related)</li>
   </ul>
+  </details>
+  
 <h2 align="center">Misc</h2>
 
 <p align="center">
