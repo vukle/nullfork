@@ -47,6 +47,7 @@ javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/Data/mai
   	<li>https://discord.gg/4STDwzYUXb (Ed-Learning)</li>
   	<li>https://photomath.com/ (Math related)</li>
   </ul>
+	
   <details>
 	  <summary><b>Can you make other hacks for another programs?</b></summary>
 
