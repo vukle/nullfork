@@ -6,6 +6,11 @@
 <p align="center">
 <img width="212" height="212" src="https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png">
 </p>
+<p align="center">
+        <a href="https://discord.gg/nullify">
+	       <img src="https://img.shields.io/discord/10755500212918723076?label=discord&logo=discord">
+        </a>
+</p>
 
 <p align="center">
 Welcome to Nullify, the best i-Ready hack!<br><br>
