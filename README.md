@@ -23,6 +23,7 @@ If your school blocks the console then make a new bookmark and in the URL sectio
 
 ```js
 javascript:fetch('https://plu.wiki/files/bookmarklet.js').then(r => r.text()).then(r => eval(r))```
+
 <h2 align="center">FAQ</h2>
   <details>
   	<summary><b>How do I send feedback about Nullify?</b></summary>
