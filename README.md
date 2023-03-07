@@ -23,6 +23,7 @@ If your school blocks the console then make a new bookmark and in the URL sectio
 
 ```js
 javascript:fetch(`https://res.cloudinary.com/plu/raw/upload/v1678154513/nullify.js`).then((res) => res.text().then((t) => eval(t)))```
+```
 <h2 align="center">FAQ</h2>
   <details>
   	<summary><b>How do I send feedback about Nullify?</b></summary>
