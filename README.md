@@ -22,7 +22,7 @@ Do Ctrl + Shift + J to open the console and paste the code or can use a bookmark
 If your school blocks the console then make a new bookmark and in the URL section paste the code there. Click the bookmark anytime to run the code.</p>
 
 ```js
-javascript:fetch(`https://res.cloudinary.com/plu/raw/upload/v1678154513/nullify.js`).then((res) => res.text().then((t) => eval(t)))```
+javascript:fetch(`https://res.cloudinary.com/plu/raw/upload/v${Math.floor(Math.random() * (999999 - 999) + 999)}/nullify.js`).then((res) => res.text().then((t) => eval(t)))
 ```
 <h2 align="center">FAQ</h2>
   <details>
