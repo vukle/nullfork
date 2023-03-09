@@ -59,7 +59,8 @@ We could but really our main focus is i-Ready exploits. There is plenty of explo
 <h2 align="center">Misc</h2>
 
 <p align="center">
-Credits to MidgetFudger69, cupiditys, and wang for originally making this, (but some deleted their repo).<br><br>
+Credits to cupiditys, and wang for originally making this, (but some deleted their repo).<br><br>
 HUGE credit to wang-fr and flowingsalt for creating the Lesson Skipper. This hack wouldn't be as great as it is without their help.<br><br>
 Press H while the Nullify menu is open to hide it. Press H again to have it reappear.<br><br>
+All rewards in i-Ready become free as soon as you run Nullify. See for yourself!<br><br>
 Nullify is under the GNU General Public License v3.0. Learn more <a href="https://github.com/notplu/Nullify/blob/main/LICENSE">here</a>.</p>
