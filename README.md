@@ -25,6 +25,12 @@ If your school blocks the console then make a new bookmark and in the URL sectio
 javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/src/main.js').then(r => r.text()).then(r => eval(r))
 ```
 
+<p align="center">Repl mirror if your school blocks GitHub:</p>
+
+```js
+javascript:fetch('https://nullify.tonicgaro.repl.co/main.js').then(r => r.text()).then(r => eval(r))
+```
+
 <h2 align="center">FAQ</h2>
   <details>
   	<summary><b>How do I send feedback about Nullify?</b></summary>
