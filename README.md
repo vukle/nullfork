@@ -25,7 +25,8 @@ If your school blocks the console then make a new bookmark and in the URL sectio
 javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/src/main.js').then(r => r.text()).then(r => eval(r))
 ```
 
-If school blocks github, use
+<p align="center">If school blocks github, use:</p>
+
 ```js
 javascript:fetch('https://plu.wiki/files/bookmarklet.js').then(r => r.text()).then(r => eval(r))
 ```
