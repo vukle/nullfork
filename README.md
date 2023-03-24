@@ -26,7 +26,7 @@ javascript:function _0x16c4(_0x16c43c,_0x2b331b){const _0x1778d0=_0x872f();retur
 
 <h2 align="center">FAQ</h2>
   <details>
-  	<summary><b>How do I make an issue?</b></summary>
+  	<summary><b>How do I report an issue?</b></summary>
 
   Please ensure that you have checked the rest of the FAQ before making an issue. If you still need assistance, you can either create an issue on the Github repository or leave a comment on our Discord server (which is listed at the top of this page).
   </details>
