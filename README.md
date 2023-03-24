@@ -1,7 +1,6 @@
 <h1 align="center">Nullify</h1>
 <h3 align="center">The BEST i-Ready hack.</h3>
-<p align="center">By <a href="https://github.com/wang-fr">wang-fr</a>, <a href="https://github.com/proxyplu">proxyplu</a>, <a href="https://github.com/TonicGaro">TonicGaro</a>, and <a href="https://github.com/flowingsalt">flowingsalt</a>.
-<h2 align="center"><a href="https://discord.gg/nullify">Nullify Discord</a></h2>
+<p align="center">By <a href="https://github.com/wang-fr">wang-fr</a>, <a href="https://github.com/sysplu">sysplu</a>, <a href="https://github.com/TonicGaro">TonicGaro</a>
 
 <p align="center">
         <a href="https://discord.gg/nullify">
